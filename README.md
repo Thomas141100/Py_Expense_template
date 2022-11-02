@@ -40,7 +40,7 @@ Exemple: 3 Users :
 - User1 owes 34,56€ to User2
 - User2 owes nothing
 - User3 owes 14,72€ to User2
-- [ ] Add the possibility to mark a debt as payed from the status report
+- [X] Add the possibility to mark a debt as payed from the status report
 - [ ] Think of new ways of spliting the expense (Percentage / person, Amount / person, anything that makes sense)
 - [X] User Input Validation : Throw an error if an expense amount is not a number, and so on ..
 - [ ] All implemented features should have relevant test cases

@@ -20,6 +20,12 @@ expense_questions = [
         "name":"spender",
         "message":"New Expense - Spender: ",
         "choices": get_users(),
+    },
+    {
+        "type":"list",
+        "name":"split_type",
+        "message":"New Expense - Split Type: ",
+        "choices": ["Even", "Custom"],
     }
 ]
 
